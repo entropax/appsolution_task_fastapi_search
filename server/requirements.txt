@@ -1,0 +1,14 @@
+asgiref
+certifi
+click
+elasticsearch
+fastapi
+greenlet
+h11
+psycopg2-binary
+pydantic
+SQLAlchemy
+starlette
+typing-extensions
+urllib3
+uvicorn

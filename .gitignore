@@ -1,0 +1,35 @@
+*.py[cod]
+*.sw?
+*.un~
+install
+.coverage
+*,cover
+
+# flask
+instance/
+
+# Distribution / packaging
+.Python
+env/
+env*/
+.venv/
+venv/
+build/
+develop-eggs/
+dist/
+eggs/
+htmlcov/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.eggs/
+
+# Sublime Text
+*.sublime-*
+
+!/topydo/lib/
